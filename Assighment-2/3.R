@@ -1,0 +1,5 @@
+javelinakg= c(50.2, 89.4,44.9)
+javelinlb=(c(50.2, 89.4,44.9)*2.205)
+print(javelinlb)
+round(javelinlb,digits=1)
+paste(round(javelinlb,digits=1),"lbs")

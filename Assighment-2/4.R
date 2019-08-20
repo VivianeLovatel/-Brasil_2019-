@@ -1,0 +1,5 @@
+birds=c(0.125, 0.137,0.098)
+birdskg=(birds/2.205)
+print(birdskg)
+round(birdskg,digits=3)
+paste(round(birdskg,digits=3),"kg")
